@@ -16,7 +16,7 @@ Currently diving into:
 - Frontend Frameworks
 - Cloud Technologies
 
-## 📚 Seeking Winter 2024 Internship
+## 📚 Seeking Winter 2024 CO-OP
 
 I am actively seeking a winter 2024 internship opportunity. If you have a challenging project and are looking for a passionate and dedicated intern, I'd love to contribute my skills.
 
