@@ -23,6 +23,6 @@ I am actively seeking a winter 2024 internship opportunity. If you have a challe
 ## 📫 Contact
 
 - **Email:** [Bouallak.Houssam@outlook.com](mailto:your.email@example.com)
-- **LinkedIn:** [Houssam Bouallak](https://www.linkedin.com/in/houssam-bouallak/)
+- **LinkedIn:** [Houssam Bouallak](https://www.linkedin.com/in/houssambouallak/)
 
 Let's connect, and I'm eager to contribute to your team! 🚀
