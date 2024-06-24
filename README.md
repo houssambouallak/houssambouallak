@@ -1,28 +1,43 @@
 # 👋 Hi, I’m Houssam Bouallak
 
-Welcome to my GitHub! I'm Houssam Bouallak, a 20-year-old programming student based in Canada.
+Welcome to my GitHub! I'm Houssam Bouallak, a programming analyst focused on mobile and web development, currently based in Canada.
 
 ## 👀 Interests
 
-- **Game Development:** Created several 2D games.
-- **Web Development:** Experienced in building dynamic websites.
-- **Software Engineering:** Worked on WPF applications.
-- **Database Management:** Completed projects involving database cloning.
+- **UI/UX Design:** Passionate about creating user-friendly and aesthetically pleasing interfaces.
+- **Game Development:** Developed several engaging 2D games.
+- **Web Development:** Experienced in building dynamic and responsive websites.
+- **Software Engineering:** Worked on WPF applications and various software projects.
+- **Database Management:** Completed projects involving complex database management and cloning.
 
-## 🌱 Learning
+## 💼 Professional Focus
 
-Currently diving into:
+As a programming analyst, I specialize in:
+- Mobile Application Development
+- Web Development
+- UI/UX Design
+- Frontend Development
+- Software Engineering
+
+## 🌱 Continuous Learning
+
+Currently enhancing my skills in:
 - Advanced Algorithms
 - Frontend Frameworks
 - Cloud Technologies
+- User Experience (UX) Design
 
-## 📚 Seeking Winter 2024 CO-OP
+## 📚 Projects
 
-I am actively seeking a winter 2024 internship opportunity. If you have a challenging project and are looking for a passionate and dedicated intern, I'd love to contribute my skills.
+I have worked on a variety of projects, including:
+- Mobile apps for iOS and Android
+- Dynamic and responsive websites
+- Complex software engineering tasks
+- Database management systems
 
 ## 📫 Contact
 
-- **Email:** [Bouallak.Houssam@outlook.com](mailto:your.email@example.com)
+- **Email:** [Bouallak.Houssam@outlook.com](mailto:Bouallak.Houssam@outlook.com)
 - **LinkedIn:** [Houssam Bouallak](https://www.linkedin.com/in/houssambouallak/)
 
-Let's connect, and I'm eager to contribute to your team! 🚀
+Let's connect! I'm excited to share my work and collaborate on innovative projects. 🚀
